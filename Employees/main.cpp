@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Ethan Buchanan
+ * @date 2022-11-15
+ * @brief Main
+ * 
+ * Prints and test the Employee class and it derived classes
+ */
+
 
 #include <iostream>
 #include "Employee.h"

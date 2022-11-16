@@ -1,3 +1,13 @@
+/**
+ * @file Supervisor.cpp
+ * @author Ethan Buchanan
+ * @date 2022-11-15
+ * @brief Supervisor implementatiom
+ * 
+ * Supervisor with extra supervised
+ */
+
+
 #include "Supervisor.h"
 #include <iostream>
 

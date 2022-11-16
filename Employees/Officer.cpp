@@ -1,3 +1,12 @@
+/**
+ * @file Officer.cpp
+ * @author Ethan Buchanan
+ * @date 2022-11-15
+ * @brief Officer class implementation
+ * 
+ * Officer class implementation with evilness
+ */
+
 #include "Officer.h"
 #include <iostream>
 

@@ -1,3 +1,12 @@
+/**
+ * @file Employee.cpp
+ * @author Ethan Buchanan
+ * @date 2022-11-15
+ * @brief Class implementation
+ * 
+ * Implementation for employee class
+ */
+
 #include "Employee.h"
 #include <iostream>
 
